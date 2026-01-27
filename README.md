@@ -11,6 +11,7 @@ JSON Web Token (JWT)
 bcryptjs (hash de senhas)
 Jest (testes automatizados)
 dotenv (variáveis de ambiente)
+
 🎯 Funcionalidades
 
 🔐 Autenticação
