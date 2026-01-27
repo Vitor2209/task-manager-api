@@ -114,9 +114,13 @@ Testes automatizados
 Organização e boas práticas em Node.js
 
 👨‍💻 Autor
+
 Vitor Dutra Melo
+
 📍 Londres, Reino Unido
+
 💻 Desenvolvedor de Software
+
 📫 vitordutra1125@gmail.comest
 
 
