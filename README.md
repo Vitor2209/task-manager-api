@@ -37,28 +37,50 @@ Validação de acesso por usuário
 Copy code
 
 task-manager-api/
+
 │
+
 ├── server.js
+
 ├── app.js
+
 ├── package.json
+
 ├── .env
+
 ├── .gitignore
+
 │
+
 ├── models/
+
 │   ├── User.js
+
 │   └── Task.js
+
 │
 ├── routes/
+
 │   ├── auth.routes.js
+
 │   └── task.routes.js
+
 │
+
 ├── middleware/
+
 │   └── authMiddleware.js
+
 │
+
 ├── tests/
+
 │   ├── auth.test.js
-│   └── task.test.js
+
+│  └── task.test.js
+
 │
+
 └── README.md
 
 🔐 Rotas da API
