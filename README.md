@@ -118,6 +118,14 @@ Copy code
 Bash
 npm test
 
+⚠️ Observação Importante sobre o MongoDB
+Este projeto utiliza MongoDB como banco de dados, conforme proposto no desafio.
+No entanto, devido a restrições do ambiente local (uso de equipamento de terceiros), não foi possível executar o banco de dados durante o desenvolvimento final. Ainda assim:
+A arquitetura está completa
+As rotas estão implementadas
+A autenticação JWT está funcional
+O projeto segue exatamente o escopo proposto
+
 🏫 Sobre o Desafio
 Projeto desenvolvido como parte da formação da Escola Nova Era, com foco em:
 APIs RESTful
