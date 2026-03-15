@@ -142,6 +142,6 @@ Vitor Dutra Melo
 
 💻 Desenvolvedor de Software
 
-📫 vitordutra1125@gmail.comest
+📫 vitordutra1125@gmail.com
 
 
